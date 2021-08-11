@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (today)
+- [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (1 day ago)
 
 #### 👯 Check out some of my recent followers
 
