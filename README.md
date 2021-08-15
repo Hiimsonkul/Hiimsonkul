@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 day ago)
-- [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (4 days ago)
+- [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (2 days ago)
+- [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (5 days ago)
 
 #### 👯 Check out some of my recent followers
 
