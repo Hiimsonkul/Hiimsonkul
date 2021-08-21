@@ -12,11 +12,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [daphnetd](https://github.com/daphnetd)
 - [logit507](https://github.com/logit507)
 - [duytruongpham](https://github.com/duytruongpham)
 - [notmariekondo](https://github.com/notmariekondo)
 - [danhhhh](https://github.com/danhhhh)
-- [daphne97](https://github.com/daphne97)
 
 #### 💬 Feedback
 
