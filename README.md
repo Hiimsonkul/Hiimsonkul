@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 bhook(aka ByteHook) is a PLT hook framework for Android app. Most of ByteDance&#39;s Android apps use bhook as the PLT hook solution online. (today)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (1 week ago)
 - [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (1 week ago)
 
