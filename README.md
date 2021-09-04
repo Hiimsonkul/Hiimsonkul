@@ -7,9 +7,10 @@
 
 #### ⭐ Recent Stars
 
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1091🚀) dependencies🚀 (today)
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (1 week ago)
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (1 week ago)
-- [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook is a PLT hook framework for Android app. Most of ByteDance&#39;s Android apps use ByteHook as the PLT hook solution online. (1 week ago)
+- [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook is a PLT hook framework for Android app. (1 week ago)
 - [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips) -  (3 weeks ago)
 - [Liberty-Chain/LBTRelease](https://github.com/Liberty-Chain/LBTRelease) -  (3 weeks ago)
 
