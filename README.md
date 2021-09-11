@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. (1 day ago)
-- [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password. (4 days ago)
-- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (6 days ago)
+- [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX) - Convert Apple NeuralHash model for CSAM Detection to ONNX. (2 days ago)
+- [nuvious/pam-duress](https://github.com/nuvious/pam-duress) - A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password. (5 days ago)
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1092🚀) dependencies🚀 (1 week ago)
 - [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) - A static analysis tool for securing Go code (2 weeks ago)
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim (2 weeks ago)
 - [bytedance/bhook](https://github.com/bytedance/bhook) - 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app. (2 weeks ago)
