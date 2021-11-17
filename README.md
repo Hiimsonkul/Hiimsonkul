@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install (today)
-- [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~ (2 days ago)
+- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install (1 day ago)
+- [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~ (3 days ago)
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务 (1 week ago)
 - [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 week ago)
 - [triggerjs/trigger](https://github.com/triggerjs/trigger) - A library for creating scroll-based animation with HTML attributes and CSS variables. (1 week ago)
