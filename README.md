@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [kakaobrain/kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer) (today)
-- [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners (1 day ago)
-- [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (5 days ago)
+- [kakaobrain/kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer) (1 day ago)
+- [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners (2 days ago)
+- [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (6 days ago)
 - [EmYiQing/JSPHorse](https://github.com/EmYiQing/JSPHorse) - 结合反射调用、动态编译、BCEL、defineClass0，ScriptEngine、Expression等技术的一款免杀JSP Webshell生成工具 (1 week ago)
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library (1 week ago)
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install (2 weeks ago)
