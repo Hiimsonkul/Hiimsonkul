@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (3 days ago)
-- [kakaobrain/kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer) (5 days ago)
-- [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners (6 days ago)
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (today)
+- [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (4 days ago)
+- [kakaobrain/kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer) (6 days ago)
+- [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners (1 week ago)
 - [ycd/dstp](https://github.com/ycd/dstp) - 🧪 Run common networking tests against your site. (1 week ago)
 - [EmYiQing/JSPHorse](https://github.com/EmYiQing/JSPHorse) - 结合反射调用、动态编译、BCEL、defineClass0，ScriptEngine、Expression等技术的一款免杀JSP Webshell生成工具 (2 weeks ago)
 - [arco-design/arco-design-vue](https://github.com/arco-design/arco-design-vue) - A Vue.js 3 UI Library (2 weeks ago)
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install (3 weeks ago)
 - [zhaoolee/pi](https://github.com/zhaoolee/pi) - 树莓派防吃灰小分队，让树莓派不再吃灰~ (3 weeks ago)
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务 (1 month ago)
-- [arco-design/arco-design](https://github.com/arco-design/arco-design) - A comprehensive React UI components library (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
