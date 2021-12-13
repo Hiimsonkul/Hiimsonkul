@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [google/budoux](https://github.com/google/budoux) -  (1 day ago)
-- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册 (2 days ago)
-- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (3 days ago)
+- [google/budoux](https://github.com/google/budoux) -  (2 days ago)
+- [ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp) - 戴铭的 Swift 小册子，一本活的 Swift 手册 (3 days ago)
+- [rentruewang/koila](https://github.com/rentruewang/koila) - Prevent PyTorch&#39;s `CUDA error: out of memory` in just 1 line of code. (4 days ago)
 - [hectorm/docker-qemu-win2000](https://github.com/hectorm/docker-qemu-win2000) - A Docker image for Windows 2000 Advanced Server with SP4. (1 week ago)
 - [kakaobrain/kogpt](https://github.com/kakaobrain/kogpt) - KakaoBrain KoGPT (Korean Generative Pre-trained Transformer) (1 week ago)
 - [pengzhiliang/MAE-pytorch](https://github.com/pengzhiliang/MAE-pytorch) - Unofficial PyTorch implementation of Masked Autoencoders Are Scalable Vision Learners (1 week ago)
