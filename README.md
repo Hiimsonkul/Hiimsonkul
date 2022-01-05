@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (1 day ago)
-- [admin360bug/bypass](https://github.com/admin360bug/bypass) -  (3 days ago)
-- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (6 days ago)
+- [teslamotors/light-show](https://github.com/teslamotors/light-show) - Tesla Light Show (2 days ago)
+- [admin360bug/bypass](https://github.com/admin360bug/bypass) -  (4 days ago)
+- [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.  (1 week ago)
 - [cisagov/log4j-affected-db](https://github.com/cisagov/log4j-affected-db) - A community sourced list of log4j-affected software (1 week ago)
 - [cube0x0/noPac](https://github.com/cube0x0/noPac) - CVE-2021-42287/CVE-2021-42278 Scanner &amp; Exploiter. (2 weeks ago)
 - [inconvergent/weird](https://github.com/inconvergent/weird) - Generative art in Common Lisp (3 weeks ago)
