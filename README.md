@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (1 day ago)
-- [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (2 days ago)
-- [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (3 days ago)
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (2 days ago)
+- [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (3 days ago)
+- [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (4 days ago)
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Nick&#39;s Roadmap for a .NET Backend Developer working with Microservices (1 week ago)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 week ago)
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework (2 weeks ago)
