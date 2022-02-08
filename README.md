@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (today)
-- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (4 days ago)
-- [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (5 days ago)
-- [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (6 days ago)
+- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (1 day ago)
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (5 days ago)
+- [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (6 days ago)
+- [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (1 week ago)
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Nick&#39;s Roadmap for a .NET Backend Developer working with Microservices (1 week ago)
 - [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (2 weeks ago)
 - [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) - OpenMMLab Model Deployment Framework (2 weeks ago)
