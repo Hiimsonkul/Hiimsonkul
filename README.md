@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (3 days ago)
+- [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (4 days ago)
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (1 week ago)
 - [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (1 week ago)
 - [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (1 week ago)
