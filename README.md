@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying  (5 days ago)
+- [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying  (6 days ago)
 - [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation (1 week ago)
-- [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (1 week ago)
+- [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (2 weeks ago)
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (2 weeks ago)
 - [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (3 weeks ago)
 - [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (3 weeks ago)
