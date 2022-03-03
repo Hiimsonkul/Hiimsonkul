@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [vvmdx/Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ (1 day ago)
+- [googlemaps/android-maps-compose](https://github.com/googlemaps/android-maps-compose) - Jetpack Compose components for the Maps SDK for Android (today)
+- [vvmdx/Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) - 一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~ (2 days ago)
 - [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) - Framework for Kerberos relaying  (1 week ago)
 - [ly4k/PwnKit](https://github.com/ly4k/PwnKit) - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation (2 weeks ago)
 - [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) - A small POC to make defender useless by removing its token privileges and lowering the token integrity   (2 weeks ago)
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) -  (3 weeks ago)
-- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (3 weeks ago)
+- [synercys/annotated_latex_equations](https://github.com/synercys/annotated_latex_equations) - Examples of how to create colorful, annotated equations in Latex using Tikz. (4 weeks ago)
 - [CeInnovationTeam/OCI-Fast-Track-Linuxtips](https://github.com/CeInnovationTeam/OCI-Fast-Track-Linuxtips) - Material para evento OCI Fast Track Linuxtips (4 weeks ago)
-- [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (4 weeks ago)
+- [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) - CVE-2021-4034 1day (1 month ago)
 - [Elfocrash/.NET-Backend-Developer-Roadmap](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) - Nick&#39;s Roadmap for a .NET Backend Developer working with Microservices (1 month ago)
-- [jpetazzo/ampernetacle](https://github.com/jpetazzo/ampernetacle) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
