@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (1 day ago)
-- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (2 days ago)
+- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv. (2 days ago)
+- [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE! (3 days ago)
 - [J0o1ey/BountyHunterInChina](https://github.com/J0o1ey/BountyHunterInChina) - 重生之我是赏金猎人系列，分享自己和团队在SRC、项目实战漏洞测试过程中的有趣案例 (1 week ago)
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust) - A free book about developing secure and robust systems software. (1 week ago)
 - [admin360bug/Compendium-of-Materia-Medica](https://github.com/admin360bug/Compendium-of-Materia-Medica) - 本草纲目V1.4版本 (1 week ago)
