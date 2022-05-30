@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (today)
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (4 days ago)
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 day ago)
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (5 days ago)
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (1 week ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (1 week ago)
 - [TheCherno/Walnut](https://github.com/TheCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps (3 weeks ago)
