@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (2 days ago)
-- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (6 days ago)
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (3 days ago)
+- [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (1 week ago)
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (1 week ago)
-- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (1 week ago)
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (2 weeks ago)
 - [TheCherno/Walnut](https://github.com/TheCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps (3 weeks ago)
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code (3 weeks ago)
 - [YunYouJun/cook](https://github.com/YunYouJun/cook) - 🍲 好的，今天我们来做菜！OK, Let&#39;s Cook! (1 month ago)
