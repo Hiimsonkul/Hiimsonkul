@@ -7,13 +7,13 @@
 
 #### ⭐ Recent Stars
 
-- [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic PL based on pattern matching and constraint propagation, 148 examples (today)
-- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (2 days ago)
-- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (5 days ago)
-- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. (6 days ago)
+- [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic PL based on pattern matching and constraint propagation, 148 examples (1 day ago)
+- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (3 days ago)
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (6 days ago)
+- [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. (1 week ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (1 week ago)
 - [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) - Automagically reverse-engineer REST APIs via capturing traffic (2 weeks ago)
-- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (2 weeks ago)
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr) (3 weeks ago)
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 weeks ago)
 - [TheCherno/Walnut](https://github.com/TheCherno/Walnut) - Walnut is a simple application framework for Vulkan and Dear ImGui apps (1 month ago)
 - [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) - A command-line tool to prevent committing secret keys into your source code (1 month ago)
