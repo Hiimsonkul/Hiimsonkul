@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python (3 days ago)
-- [sigoden/duf](https://github.com/sigoden/duf) - Duf is a simple file server. Support static serve, search, upload, webdav... (4 days ago)
-- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (5 days ago)
+- [reanalytics-databoutique/webscraping-open-project](https://github.com/reanalytics-databoutique/webscraping-open-project) - The web scraping open project repository aims to share knowledge and experiences about web scraping with Python (4 days ago)
+- [sigoden/dufs](https://github.com/sigoden/dufs) - Dufs is a simple file server. Support static serve, search, upload, webdav... (5 days ago)
+- [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南 (6 days ago)
 - [mxgmn/MarkovJunior](https://github.com/mxgmn/MarkovJunior) - Probabilistic PL based on pattern matching and constraint propagation, 148 examples (1 week ago)
-- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (1 week ago)
+- [taviso/123elf](https://github.com/taviso/123elf) - A native port of Lotus 1-2-3 to Linux. (2 weeks ago)
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (2 weeks ago)
 - [Cveinnt/LetsMarkdown.com](https://github.com/Cveinnt/LetsMarkdown.com) - 👨‍💻👩‍💻 Write Markdown. Together. (2 weeks ago)
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq) - Repo for external large-scale work (3 weeks ago)
