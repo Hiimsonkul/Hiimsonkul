@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual (today)
+- [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual (1 day ago)
 - [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges (1 week ago)
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (1 week ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (1 week ago)
