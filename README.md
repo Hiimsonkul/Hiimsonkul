@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual (3 days ago)
+- [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual (4 days ago)
 - [webfansplz/vuejs-challenges](https://github.com/webfansplz/vuejs-challenges) - Collection of Vue.js challenges (1 week ago)
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line (1 week ago)
 - [kevwan/tproxy](https://github.com/kevwan/tproxy) - A cli tool to proxy and analyze TCP connections. (2 weeks ago)
@@ -16,7 +16,7 @@
 - [greycodee/wechat-backup](https://github.com/greycodee/wechat-backup) - 微信聊天记录持久化备份本地硬盘，释放手机存储空间。 (2 weeks ago)
 - [x2bool/xlite](https://github.com/x2bool/xlite) - SQLite extension to query Excel (.xlsx, .xls, .ods) files as virtual tables (3 weeks ago)
 - [LeadCoding/3-weeks-Google-Prep](https://github.com/LeadCoding/3-weeks-Google-Prep) -  (3 weeks ago)
-- [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great. (3 weeks ago)
+- [jtrivedi/Wave](https://github.com/jtrivedi/Wave) - Wave is a spring-based animation engine for iOS that makes it easy to create fluid, interruptible animations that feel great. (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
