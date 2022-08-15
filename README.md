@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces (2 days ago)
+- [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces (3 days ago)
 - [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles) - Solve puzzles. Learn CUDA. (1 week ago)
 - [Nickyie/Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - A Library of various cybersecurity resources (1 week ago)
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy &amp; security-focused software and services (1 week ago)
