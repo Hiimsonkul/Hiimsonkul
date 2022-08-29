@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [kifuan/helang](https://github.com/kifuan/helang) - 何语言，次世代赛博编程语言。 (3 days ago)
+- [moyix/fauxpilot](https://github.com/moyix/fauxpilot) - FauxPilot - an open-source GitHub Copilot server (today)
+- [kifuan/helang](https://github.com/kifuan/helang) - 何语言，次世代赛博编程语言。 (4 days ago)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.  (1 week ago)
 - [punk-security/dnsReaper](https://github.com/punk-security/dnsReaper) - dnsReaper - subdomain takeover tool for attackers, bug bounty hunters and the blue team! (1 week ago)
 - [sakofchit/system.css](https://github.com/sakofchit/system.css) - A design system for building retro Apple interfaces (2 weeks ago)
@@ -16,7 +17,6 @@
 - [Lissy93/awesome-privacy](https://github.com/Lissy93/awesome-privacy) - 🦄  A curated list of privacy &amp; security-focused software and services (3 weeks ago)
 - [b7leung/MLE-Flashcards](https://github.com/b7leung/MLE-Flashcards) - 200&#43; detailed flashcards useful for reviewing topics in machine learning, computer vision, and computer science. (4 weeks ago)
 - [Java-S12138/frank](https://github.com/Java-S12138/frank) - 一款全新的英雄联盟(LOL)助手软件.............. A bran-new League of Legends assistant software, a replacement for WeGame. (1 month ago)
-- [ZaneH/piano-trainer](https://github.com/ZaneH/piano-trainer) - 🎹 Memorize piano scales with ease! A music practice program w/ MIDI support. Consider it an interactive reference manual (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
