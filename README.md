@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. (1 day ago)
-- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, &#43;25-50% speed increase &#43; memory efficient &#43; DreamBooth (4 days ago)
-- [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch (5 days ago)
+- [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. (2 days ago)
+- [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) - fast-stable-diffusion, &#43;25-50% speed increase &#43; memory efficient &#43; DreamBooth (5 days ago)
+- [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch (6 days ago)
 - [ahrm/UnstableFusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more! (2 weeks ago)
 - [bytedance/appshark](https://github.com/bytedance/appshark) - Appshark is a static taint analysis platform to scan vulnerabilities in an Android app. (2 weeks ago)
 - [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI  (3 weeks ago)
