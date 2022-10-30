@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [JingShing/novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver) - You can use this version to experience how novelai works without a good gpu. (today)
+- [JingShing/novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver) - You can use this version to experience how novelai works without a good gpu. (1 day ago)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (1 week ago)
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper &#34;Human Motion Diffusion Model&#34; (1 week ago)
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝 (1 week ago)
