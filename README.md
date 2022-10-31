@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [JingShing/novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver) - You can use this version to experience how novelai works without a good gpu. (1 day ago)
+- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (today)
+- [JingShing/novelai-colab-ver](https://github.com/JingShing/novelai-colab-ver) - You can use this version to experience how novelai works without a good gpu. (2 days ago)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (1 week ago)
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper &#34;Human Motion Diffusion Model&#34; (1 week ago)
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝 (1 week ago)
@@ -16,7 +17,6 @@
 - [lucidrains/make-a-video-pytorch](https://github.com/lucidrains/make-a-video-pytorch) - Implementation of Make-A-Video, new SOTA text to video generator from Meta AI, in Pytorch (2 weeks ago)
 - [ahrm/UnstableFusion](https://github.com/ahrm/UnstableFusion) - A Stable Diffusion desktop frontend with inpainting, img2img and more! (1 month ago)
 - [bytedance/appshark](https://github.com/bytedance/appshark) - Appshark is a static taint analysis platform to scan vulnerabilities in an Android app. (1 month ago)
-- [hasherezade/pe-bear](https://github.com/hasherezade/pe-bear) - Portable Executable reversing tool with a friendly GUI  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
