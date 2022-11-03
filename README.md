@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (today)
-- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (2 days ago)
+- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (1 day ago)
+- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (3 days ago)
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (1 week ago)
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper &#34;Human Motion Diffusion Model&#34; (2 weeks ago)
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝 (2 weeks ago)
