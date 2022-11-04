@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (1 day ago)
-- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (3 days ago)
-- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (1 week ago)
+- [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (2 days ago)
+- [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (4 days ago)
+- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (2 weeks ago)
 - [GuyTevet/motion-diffusion-model](https://github.com/GuyTevet/motion-diffusion-model) - The official PyTorch implementation of the paper &#34;Human Motion Diffusion Model&#34; (2 weeks ago)
 - [RonSijm/ButtFish](https://github.com/RonSijm/ButtFish) - Effortlessly transmitting Morse Code of chess moves to your butthole 💝 (2 weeks ago)
 - [JoePenna/Dreambooth-Stable-Diffusion](https://github.com/JoePenna/Dreambooth-Stable-Diffusion) - Implementation of Dreambooth (https://arxiv.org/abs/2208.12242) by way of Textual Inversion (https://arxiv.org/abs/2208.01618) for Stable Diffusion (https://arxiv.org/abs/2112.10752). Tweaks focused on training faces, objects, and styles. (2 weeks ago)
