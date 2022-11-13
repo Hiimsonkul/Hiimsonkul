@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。) (5 days ago)
-- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (6 days ago)
+- [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。) (6 days ago)
+- [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (1 week ago)
 - [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (1 week ago)
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (1 week ago)
 - [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone using rust for RESEARCH PURPOSES (1 week ago)
