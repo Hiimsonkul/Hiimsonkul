@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 day ago)
-- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (5 days ago)
-- [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (6 days ago)
+- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (2 days ago)
+- [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (6 days ago)
+- [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (1 week ago)
 - [hellof2e/quark-design](https://github.com/hellof2e/quark-design) - Next generation Frontend component library, it can be used in any framework or no framework at the same time.(下一代前端组件库，它可以同时在任意框架或无框架中使用。) (2 weeks ago)
 - [Demindiro/agreper](https://github.com/Demindiro/agreper) - Minimal, no-JS web forum software (2 weeks ago)
 - [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (2 weeks ago)
