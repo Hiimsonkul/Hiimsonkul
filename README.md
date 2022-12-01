@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (4 days ago)
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (5 days ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 week ago)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (2 weeks ago)
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (2 weeks ago)
