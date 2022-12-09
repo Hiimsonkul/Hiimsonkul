@@ -7,6 +7,7 @@
 
 #### ⭐ Recent Stars
 
+- [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (today)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (1 week ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (2 weeks ago)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (3 weeks ago)
@@ -16,7 +17,6 @@
 - [jamealg/KT-companion](https://github.com/jamealg/KT-companion) - A hiking and backpacking trail companion progressive web app (1 month ago)
 - [toss/slash](https://github.com/toss/slash) - A collection of TypeScript/JavaScript packages to build high-quality web services. (1 month ago)
 - [security-union/rust-zoom](https://github.com/security-union/rust-zoom) - zoom clone written in rust for RESEARCH PURPOSES (1 month ago)
-- [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
