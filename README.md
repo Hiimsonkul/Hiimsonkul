@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (today)
-- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (1 week ago)
+- [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (1 day ago)
+- [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (2 weeks ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (2 weeks ago)
 - [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative (3 weeks ago)
 - [diracdeltas/tweets](https://github.com/diracdeltas/tweets) - janky twitter replacement. (3 weeks ago)
