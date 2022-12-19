@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (4 days ago)
-- [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (5 days ago)
-- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (6 days ago)
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (5 days ago)
+- [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (6 days ago)
+- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (1 week ago)
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (1 week ago)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (3 weeks ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (4 weeks ago)
