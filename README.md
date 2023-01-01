@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [openai/tiktoken](https://github.com/openai/tiktoken) -  (6 days ago)
+- [openai/tiktoken](https://github.com/openai/tiktoken) -  (1 week ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🤖 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis (1 week ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (2 weeks ago)
