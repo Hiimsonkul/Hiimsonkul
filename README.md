@@ -12,7 +12,7 @@
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis (1 week ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (2 weeks ago)
 - [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (2 weeks ago)
-- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (2 weeks ago)
+- [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (3 weeks ago)
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (3 weeks ago)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (1 month ago)
 - [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 month ago)
