@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA. (today)
+- [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA. (1 day ago)
 - [openai/tiktoken](https://github.com/openai/tiktoken) -  (1 week ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
-- [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis (1 week ago)
-- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (2 weeks ago)
+- [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis (2 weeks ago)
+- [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (3 weeks ago)
 - [ShoufaChen/DiffusionDet](https://github.com/ShoufaChen/DiffusionDet) - PyTorch implementation of DiffusionDet (https://arxiv.org/abs/2211.09788) (3 weeks ago)
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (3 weeks ago)
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (3 weeks ago)
