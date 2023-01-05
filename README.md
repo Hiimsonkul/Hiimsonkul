@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA. (1 day ago)
+- [nopecha-ai/nopecha-scripts](https://github.com/nopecha-ai/nopecha-scripts) - Example scripts to automatically solve reCAPTCHA, hCaptcha, FunCAPTCHA, AWS CAPTCHA, and text-based CAPTCHA. (2 days ago)
 - [openai/tiktoken](https://github.com/openai/tiktoken) -  (1 week ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (1 week ago)
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis (2 weeks ago)
