@@ -16,7 +16,7 @@
 - [danielgross/whatsapp-gpt](https://github.com/danielgross/whatsapp-gpt) -  (1 month ago)
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp (1 month ago)
 - [jart/blink](https://github.com/jart/blink) - tiniest x86-64-linux emulator (1 month ago)
-- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (1 month ago)
+- [timhutton/twitter-archive-parser](https://github.com/timhutton/twitter-archive-parser) - Python code to parse a Twitter archive and output in various ways (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
