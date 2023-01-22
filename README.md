@@ -8,7 +8,7 @@
 #### ⭐ Recent Stars
 
 - [ginsudev/WDBFontOverwrite](https://github.com/ginsudev/WDBFontOverwrite) - Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689. (1 week ago)
-- [openai/tiktoken](https://github.com/openai/tiktoken) -  (3 weeks ago)
+- [openai/tiktoken](https://github.com/openai/tiktoken) -  (4 weeks ago)
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) (4 weeks ago)
 - [openai/point-e](https://github.com/openai/point-e) - Point cloud diffusion for 3D model synthesis (1 month ago)
 - [altryne/chatGPT-telegram-bot](https://github.com/altryne/chatGPT-telegram-bot) - This is a very early attempt at having chatGPT work within a telegram bot (1 month ago)
