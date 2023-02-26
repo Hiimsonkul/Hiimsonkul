@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (today)
-- [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications. (5 days ago)
+- [facebookresearch/llama](https://github.com/facebookresearch/llama) - Inference code for LLaMA models (1 day ago)
+- [drifting-in-space/driftdb](https://github.com/drifting-in-space/driftdb) - A real-time data backend for browser-based applications. (6 days ago)
 - [Mikubill/sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet) - WebUI extension for ControlNet (1 week ago)
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) - A playbook for systematically maximizing the performance of deep learning models. (1 week ago)
 - [CMEPW/BypassAV](https://github.com/CMEPW/BypassAV) - This map lists the essential techniques to bypass anti-virus and EDR (2 weeks ago)
