@@ -7,8 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client (today)
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (6 days ago)
+- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 &amp; LangChain Chatbot for large PDF docs (today)
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client (1 day ago)
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (1 week ago)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI. (1 week ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (1 week ago)
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (2 weeks ago)
@@ -16,7 +17,6 @@
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A &#39;CSS reset&#39; for TypeScript, improving types for common JavaScript API&#39;s (2 weeks ago)
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT with xiaomi AI speaker (2 weeks ago)
 - [ddiu8081/chatgpt-demo](https://github.com/ddiu8081/chatgpt-demo) - A demo repo based on OpenAI API. (3 weeks ago)
-- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout) - 🚀 Zero Downtime Deployment for Docker Compose (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
