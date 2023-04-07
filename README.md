@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford&#39;s Alpaca models, and generate the data. (3 days ago)
-- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine (4 days ago)
-- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 &amp; LangChain Chatbot for large PDF docs (6 days ago)
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford&#39;s Alpaca models, and generate the data. (4 days ago)
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine (5 days ago)
+- [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 &amp; LangChain Chatbot for large PDF docs (1 week ago)
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client (1 week ago)
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (1 week ago)
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (2 weeks ago)
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI. (2 weeks ago)
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook&#39;s LLaMA model in C/C&#43;&#43; (2 weeks ago)
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man&#39;s ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding (3 weeks ago)
