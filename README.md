@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (today)
-- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford&#39;s Alpaca models, and generate the data. (5 days ago)
-- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine (6 days ago)
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 day ago)
+- [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford&#39;s Alpaca models, and generate the data. (6 days ago)
+- [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine (1 week ago)
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 &amp; LangChain Chatbot for large PDF docs (1 week ago)
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client (1 week ago)
 - [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) -  (2 weeks ago)
