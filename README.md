@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (3 days ago)
-- [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 (4 days ago)
-- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (6 days ago)
+- [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it&#39;s now feasible for every dev to have their own smol developer (today)
+- [SamurAIGPT/privateGPT](https://github.com/SamurAIGPT/privateGPT) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (4 days ago)
+- [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 (5 days ago)
+- [s0md3v/roop](https://github.com/s0md3v/roop) - one-click deepfake (face swap) (1 week ago)
 - [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统) (1 week ago)
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold (1 week ago)
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆 (2 weeks ago)
 - [hkirat/project-ideas](https://github.com/hkirat/project-ideas) - Projects to get you started on full stack (2 weeks ago)
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack) - This is a Remix Stack with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. (2 weeks ago)
 - [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 (3 weeks ago)
-- [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers) (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
