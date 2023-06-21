@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) -  (1 day ago)
-- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  (2 days ago)
+- [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) -  (2 days ago)
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  (3 days ago)
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。 (1 week ago)
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (1 week ago)
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it&#39;s now feasible for every dev to have their own smol developer (1 week ago)
