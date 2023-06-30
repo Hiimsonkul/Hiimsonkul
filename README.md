@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (today)
-- [zksync/credo](https://github.com/zksync/credo) -  (1 day ago)
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (1 day ago)
+- [zksync/credo](https://github.com/zksync/credo) -  (2 days ago)
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) -  (1 week ago)
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  (1 week ago)
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。 (2 weeks ago)
