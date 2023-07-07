@@ -7,7 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui (5 days ago)
+- [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (today)
+- [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui (6 days ago)
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (1 week ago)
 - [zksync/credo](https://github.com/zksync/credo) -  (1 week ago)
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) -  (2 weeks ago)
@@ -16,7 +17,6 @@
 - [SysCV/sam-hq](https://github.com/SysCV/sam-hq) - Segment Anything in High Quality (3 weeks ago)
 - [smol-ai/developer](https://github.com/smol-ai/developer) - with 100k context windows on the way, it&#39;s now feasible for every dev to have their own smol developer (3 weeks ago)
 - [SamurAIGPT/EmbedAI](https://github.com/SamurAIGPT/EmbedAI) - An app to interact privately with your documents using the power of GPT, 100% privately, no data leaks (1 month ago)
-- [gptlink/gptlink](https://github.com/gptlink/gptlink) - 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
