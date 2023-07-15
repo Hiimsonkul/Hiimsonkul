@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (1 day ago)
+- [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (2 days ago)
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (1 week ago)
-- [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui (1 week ago)
+- [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui (2 weeks ago)
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B) - ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型 (2 weeks ago)
 - [zksync/credo](https://github.com/zksync/credo) -  (2 weeks ago)
 - [InternLM/InternLM-techreport](https://github.com/InternLM/InternLM-techreport) -  (3 weeks ago)
