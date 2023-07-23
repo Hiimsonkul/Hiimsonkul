@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta&#39;s Threads. Supports Read and Write. Web UI Included. (6 days ago)
+- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta&#39;s Threads. Supports Read and Write. Web UI Included. (1 week ago)
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI (1 week ago)
 - [cvg/LightGlue](https://github.com/cvg/LightGlue) - LightGlue: Local Feature Matching at Light Speed (ICCV 2023) (2 weeks ago)
 - [s0md3v/sd-webui-roop](https://github.com/s0md3v/sd-webui-roop) - roop extension for StableDiffusion web-ui (3 weeks ago)
