@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (1 day ago)
-- [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (6 days ago)
+- [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (2 days ago)
+- [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (1 week ago)
 - [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (1 week ago)
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) -  (2 weeks ago)
