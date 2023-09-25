@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper &#34;The Rise and Potential of Large Language Model Based Agents: A Survey&#34; by Zhiheng Xi et al. (today)
-- [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (3 days ago)
+- [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper &#34;The Rise and Potential of Large Language Model Based Agents: A Survey&#34; by Zhiheng Xi et al. (1 day ago)
+- [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (4 days ago)
 - [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (1 week ago)
 - [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
-- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (1 week ago)
+- [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (2 weeks ago)
 - [mshumer/gpt-llm-trainer](https://github.com/mshumer/gpt-llm-trainer) -  (2 weeks ago)
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama) - Inference code for CodeLlama models (3 weeks ago)
 - [leejet/stable-diffusion.cpp](https://github.com/leejet/stable-diffusion.cpp) - Stable Diffusion in pure C/C&#43;&#43; (3 weeks ago)
