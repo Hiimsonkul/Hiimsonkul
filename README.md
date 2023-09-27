@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper &#34;The Rise and Potential of Large Language Model Based Agents: A Survey&#34; by Zhiheng Xi et al. (2 days ago)
-- [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (5 days ago)
+- [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper &#34;The Rise and Potential of Large Language Model Based Agents: A Survey&#34; by Zhiheng Xi et al. (3 days ago)
+- [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (6 days ago)
 - [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (1 week ago)
 - [NetEase/tango](https://github.com/NetEase/tango) - A source code based low-code builder. Integrate low-code experience into your local development workflow seamlessly. (1 week ago)
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions&#39; network calls (2 weeks ago)
