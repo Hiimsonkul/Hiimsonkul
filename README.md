@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI (3 days ago)
-- [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model. (4 days ago)
+- [rapidpages/rapidpages](https://github.com/rapidpages/rapidpages) - Generate React and Tailwind components using AI (4 days ago)
+- [mistralai/mistral-src](https://github.com/mistralai/mistral-src) - Reference implementation of Mistral AI 7B v0.1 model. (5 days ago)
 - [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) - The paper list of the 86-page paper &#34;The Rise and Potential of Large Language Model Based Agents: A Survey&#34; by Zhiheng Xi et al. (1 week ago)
 - [YavorGIvanov/sam.cpp](https://github.com/YavorGIvanov/sam.cpp) -  (1 week ago)
 - [ECTO-1A/AppleJuice](https://github.com/ECTO-1A/AppleJuice) - Apple BLE proximity pairing message spoofing (2 weeks ago)
