@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate. (1 day ago)
-- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (2 days ago)
-- [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs (4 days ago)
+- [huggingface/distil-whisper](https://github.com/huggingface/distil-whisper) - Distilled variant of Whisper for speech recognition. 6x faster, 50% smaller, within 1% word error rate. (2 days ago)
+- [NVIDIA/Stable-Diffusion-WebUI-TensorRT](https://github.com/NVIDIA/Stable-Diffusion-WebUI-TensorRT) - TensorRT Extension for Stable Diffusion Web UI (3 days ago)
+- [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning) - AgentTuning: Enabling Generalized Agent Abilities for LLMs (5 days ago)
 - [mouredev/hello-sql](https://github.com/mouredev/hello-sql) - Curso para aprender los fundamentos del lenguaje SQL y bases de datos relacionales desde cero y para principiantes. Elaborado durante las emisiones en directo desde Twitch de MoureDev. (1 week ago)
 - [mouredev/python-web](https://github.com/mouredev/python-web) - Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev. (1 week ago)
 - [Pondorasti/emojis](https://github.com/Pondorasti/emojis) - Turn your ideas into emojis in seconds. Generate your favorite Slack emojis with just one click. (2 weeks ago)
