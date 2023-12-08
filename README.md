@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (4 days ago)
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (5 days ago)
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (1 week ago)
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine (2 weeks ago)
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL (3 weeks ago)
