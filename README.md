@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (today)
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (1 day ago)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 week ago)
 - [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (2 weeks ago)
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine (2 weeks ago)
@@ -23,8 +23,8 @@
 - [pedrofaria90](https://github.com/pedrofaria90)
 - [X601169957911](https://github.com/X601169957911)
 - [preethamb97](https://github.com/preethamb97)
+- [wolfwarrier14](https://github.com/wolfwarrier14)
 - [hoanbi1812000](https://github.com/hoanbi1812000)
-- [sarutobi12](https://github.com/sarutobi12)
 
 #### 💬 Feedback
 
