@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone&#39;s productivity. (today)
-- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (6 days ago)
-- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 week ago)
-- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (2 weeks ago)
+- [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone&#39;s productivity. (1 day ago)
+- [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (1 week ago)
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (2 weeks ago)
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (3 weeks ago)
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine (3 weeks ago)
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL (1 month ago)
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 month ago)
