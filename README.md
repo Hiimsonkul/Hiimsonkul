@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 day ago)
-- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person (4 days ago)
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (5 days ago)
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (2 days ago)
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person (5 days ago)
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (6 days ago)
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone&#39;s productivity. (1 week ago)
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (2 weeks ago)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (3 weeks ago)
