@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (2 days ago)
-- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person (5 days ago)
-- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (6 days ago)
+- [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation (today)
+- [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (3 days ago)
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person (6 days ago)
+- [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (1 week ago)
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone&#39;s productivity. (1 week ago)
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (2 weeks ago)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (3 weeks ago)
-- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (4 weeks ago)
+- [antirez/smallchat](https://github.com/antirez/smallchat) - A minimal programming example for a chat server (1 month ago)
 - [netease-youdao/EmotiVoice](https://github.com/netease-youdao/EmotiVoice) - EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine (1 month ago)
 - [everywall/ladder](https://github.com/everywall/ladder) - Selfhosted alternative to 12ft.io. and 1ft.io bypass paywalls with a proxy ladder and remove CORS headers from any URL (1 month ago)
-- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
