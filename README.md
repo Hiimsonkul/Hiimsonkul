@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine. (5 days ago)
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource. (6 days ago)
+- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine. (6 days ago)
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) - A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource. (1 week ago)
 - [prs-eth/Marigold](https://github.com/prs-eth/Marigold) - Marigold: Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation (1 week ago)
 - [SJTU-IPADS/PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) - High-speed Large Language Model Serving on PCs with Consumer-grade GPUs (1 week ago)
-- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person (1 week ago)
+- [HumanAIGC/OutfitAnyone](https://github.com/HumanAIGC/OutfitAnyone) - Outfit Anyone: Ultra-high quality virtual try-on for Any Clothing and Any Person (2 weeks ago)
 - [yformer/EfficientSAM](https://github.com/yformer/EfficientSAM) - EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything (2 weeks ago)
 - [SecureAI-Tools/SecureAI-Tools](https://github.com/SecureAI-Tools/SecureAI-Tools) - Private and secure AI tools for everyone&#39;s productivity. (2 weeks ago)
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation (3 weeks ago)
