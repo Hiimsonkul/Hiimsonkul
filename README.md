@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (today)
-- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for ios14.0~17.0 (A8~A17,M1&#43;M2) (5 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (1 day ago)
+- [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for ios14.0~17.0 (A8~A17,M1&#43;M2) (6 days ago)
 - [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool (2 weeks ago)
 - [DLYuanGod/TinyGPT-V](https://github.com/DLYuanGod/TinyGPT-V) - TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones (2 weeks ago)
 - [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is a microservices orchestration engine. (3 weeks ago)
