@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (today)
-- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (1 day ago)
-- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (3 days ago)
-- [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille) -  (5 days ago)
-- [MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) -  (6 days ago)
+- [Rapha-Borges/oke-free](https://github.com/Rapha-Borges/oke-free) - Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre (1 day ago)
+- [mihonapp/mihon](https://github.com/mihonapp/mihon) - Free and open source manga reader for Android (2 days ago)
+- [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI. (4 days ago)
+- [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille) -  (6 days ago)
+- [MooreThreads/Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone) -  (1 week ago)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - Personal finance and wealth management app (1 week ago)
 - [roothide/Bootstrap](https://github.com/roothide/Bootstrap) - A full featured bootstrap for ios14.0~17.0 (A8~A17,M1&#43;M2) (2 weeks ago)
 - [gregsadetsky/sagittarius](https://github.com/gregsadetsky/sagittarius) - A GPT-4/Gemini Voice/Video Exploration Tool (3 weeks ago)
