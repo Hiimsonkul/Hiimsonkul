@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators (6 days ago)
+- [PKU-YuanGroup/MagicTime](https://github.com/PKU-YuanGroup/MagicTime) - MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators (1 week ago)
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run. (1 week ago)
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun  (1 week ago)
 - [zk-Call/zkp-hmac-communication-js](https://github.com/zk-Call/zkp-hmac-communication-js) - &#34;Zero-Knowledge&#34; Proof Implementation with HMAC Communication in JavaScript (2 weeks ago)
