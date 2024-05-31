@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (today)
-- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (1 day ago)
+- [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (1 day ago)
+- [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (2 days ago)
 - [Cry1ngMan/1](https://github.com/Cry1ngMan/1) - 手机往下滑 ❤️ 定期更新 ❤️ 免费/白嫖/公益/节点/机场/订阅/vpn/翻墙 (2 weeks ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (2 weeks ago)
 - [google-research/timesfm](https://github.com/google-research/timesfm) - TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting. (2 weeks ago)
