@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (3 days ago)
-- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (5 days ago)
+- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (4 days ago)
+- [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (6 days ago)
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (1 week ago)
 - [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (2 weeks ago)
 - [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (2 weeks ago)
