@@ -7,11 +7,11 @@
 
 #### ⭐ Recent Stars
 
-- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there! (today)
-- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (5 days ago)
+- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there! (1 day ago)
+- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (6 days ago)
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (1 week ago)
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (1 week ago)
-- [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (2 weeks ago)
+- [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (3 weeks ago)
 - [likejazz/llama3.np](https://github.com/likejazz/llama3.np) - llama3.np is a pure NumPy implementation for Llama 3 model. (3 weeks ago)
 - [Cry1ngMan/1](https://github.com/Cry1ngMan/1) - ❤💛💚💙💜　定期更新　❤💛💚💙💜　免费白嫖　❤💛💚💙💜　公益节点　❤💛💚💙💜　机场分享　❤💛💚💙💜　订阅链接　❤💛💚💙💜　科学上网　❤💛💚💙💜　梯子翻墙　❤💛💚💙💜　谷歌商店　❤💛💚💙💜　部署爬取　❤💛💚💙💜vpn　trojan❤💛💚💙💜clash　v2ray❤💛💚💙💜 (1 month ago)
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place (1 month ago)
