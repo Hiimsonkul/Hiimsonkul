@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there! (1 day ago)
-- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (6 days ago)
+- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there! (2 days ago)
+- [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (1 week ago)
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (1 week ago)
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (1 week ago)
 - [ca110us/epeius](https://github.com/ca110us/epeius) - Deploy Trojan using a Serverless approach (3 weeks ago)
@@ -20,11 +20,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ishandutta2007](https://github.com/ishandutta2007)
 - [pedrofaria90](https://github.com/pedrofaria90)
 - [X601169957911](https://github.com/X601169957911)
 - [preethamb97](https://github.com/preethamb97)
 - [deepsea514](https://github.com/deepsea514)
-- [hoanbi1812000](https://github.com/hoanbi1812000)
 
 #### 💬 Feedback
 
