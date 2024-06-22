@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there! (2 days ago)
+- [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there! (3 days ago)
 - [dabochen/spreadsheet-is-all-you-need](https://github.com/dabochen/spreadsheet-is-all-you-need) - A nanoGPT pipeline packed in a spreadsheet (1 week ago)
 - [es3n1n/no-defender](https://github.com/es3n1n/no-defender) - A slightly more fun way to disable windows defender &#43; firewall. (through the WSC api) (1 week ago)
 - [yuweihao/MambaOut](https://github.com/yuweihao/MambaOut) - MambaOut: Do We Really Need Mamba for Vision? (1 week ago)
