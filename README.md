@@ -7,8 +7,8 @@
 
 #### ⭐ Recent Stars
 
-- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini (2 days ago)
-- [nicepkg/aide](https://github.com/nicepkg/aide) - Master Any Code: One-Click Comments and Language Conversion.  掌握任何屎山代码：一键注释和语言转换。💪 (3 days ago)
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - Zero shot pdf OCR with gpt-4o-mini (3 days ago)
+- [nicepkg/aide](https://github.com/nicepkg/aide) - Master Any Code: One-Click Comments and Language Conversion.  掌握任何屎山代码：一键注释和语言转换。💪 (4 days ago)
 - [xinsir6/ControlNetPlus](https://github.com/xinsir6/ControlNetPlus) - ControlNet&#43;&#43;: All-in-one ControlNet for image generations and editing! (1 week ago)
 - [lllyasviel/Paints-UNDO](https://github.com/lllyasviel/Paints-UNDO) - Understand Human Behavior to Align True Needs (1 week ago)
 - [cambrian-mllm/cambrian](https://github.com/cambrian-mllm/cambrian) - Cambrian-1 is a family of multimodal LLMs with a vision-centric design. (4 weeks ago)
