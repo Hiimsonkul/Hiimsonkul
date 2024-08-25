@@ -7,10 +7,10 @@
 
 #### ⭐ Recent Stars
 
-- [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally. (1 day ago)
-- [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js (2 days ago)
-- [phoboslab/high_impact](https://github.com/phoboslab/high_impact) - A 2d game engine written in C (3 days ago)
-- [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1 (5 days ago)
+- [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally. (2 days ago)
+- [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js (3 days ago)
+- [phoboslab/high_impact](https://github.com/phoboslab/high_impact) - A 2d game engine written in C (4 days ago)
+- [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1 (6 days ago)
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version) (1 week ago)
 - [pompurin404/mihomo-party](https://github.com/pompurin404/mihomo-party) - :electron: Another Mihomo GUI.  (1 week ago)
 - [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query (1 week ago)
