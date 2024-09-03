@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training (6 days ago)
+- [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training (1 week ago)
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar (1 week ago)
 - [langchain-ai/langgraph-studio](https://github.com/langchain-ai/langgraph-studio) - Desktop app for prototyping and debugging LangGraph applications locally. (1 week ago)
 - [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js (1 week ago)
@@ -15,7 +15,7 @@
 - [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1 (2 weeks ago)
 - [wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI) - macOS Integrated Injection Framework (GUI version) (2 weeks ago)
 - [pompurin404/mihomo-party](https://github.com/pompurin404/mihomo-party) - :electron: Another Mihomo GUI.  (2 weeks ago)
-- [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query (2 weeks ago)
+- [arunsupe/semantic-grep](https://github.com/arunsupe/semantic-grep) - grep for words with similar meaning to the query (3 weeks ago)
 - [harry0703/AudioNotes](https://github.com/harry0703/AudioNotes) - 快速提取音视频内容，整理成一份结构化的markdown笔记 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
