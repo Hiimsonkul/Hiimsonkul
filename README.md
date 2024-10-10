@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (6 days ago)
+- [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (1 week ago)
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (1 week ago)
 - [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level. (1 week ago)
 - [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (1 week ago)
