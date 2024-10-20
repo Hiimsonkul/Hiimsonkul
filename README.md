@@ -7,7 +7,7 @@
 
 #### ⭐ Recent Stars
 
-- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (5 days ago)
+- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (6 days ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 week ago)
 - [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (2 weeks ago)
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (2 weeks ago)
