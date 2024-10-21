@@ -7,16 +7,16 @@
 
 #### ⭐ Recent Stars
 
-- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (6 days ago)
+- [EOS-team/EOS](https://github.com/EOS-team/EOS) - EOS is a dual-core operating system designed specifically for embodied intelligence, suitable for robots, drones, satellites or other scenarios requiring real-time and general capabilities. (today)
+- [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (1 week ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 week ago)
 - [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (2 weeks ago)
 - [VadimBoev/FlappyBird](https://github.com/VadimBoev/FlappyBird) - Less than 100 Kilobytes. Works for Android 5.1 and above (2 weeks ago)
 - [ictnlp/LLaMA-Omni](https://github.com/ictnlp/LLaMA-Omni) - LLaMA-Omni is a low-latency and high-quality end-to-end speech interaction model built upon Llama-3.1-8B-Instruct, aiming to achieve speech capabilities at the GPT-4o level. (2 weeks ago)
-- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (2 weeks ago)
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative (3 weeks ago)
 - [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques. (3 weeks ago)
 - [straight-tamago/misakaX](https://github.com/straight-tamago/misakaX) - iOS /iPadOS 16.0 - 18.0 / 18.1 beta 4, An ultimate customization tool, uilitizing the bug that makes TrollRestore possible. (3 weeks ago)
-- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (4 weeks ago)
-- [ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063) - poc for CVE-2024-38063 (RCE in tcpip.sys) (1 month ago)
+- [bklieger-groq/g1](https://github.com/bklieger-groq/g1) - g1: Using Llama-3.1 70b on Groq to create o1-like reasoning chains (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
