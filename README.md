@@ -7,9 +7,9 @@
 
 #### ⭐ Recent Stars
 
-- [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE (today)
-- [panphp/pan](https://github.com/panphp/pan) - A simple, lightweight, and privacy-focused product analytics php package (2 days ago)
-- [EOS-team/EOS](https://github.com/EOS-team/EOS) - EOS is a dual-core operating system designed specifically for embodied intelligence, suitable for robots, drones, satellites or other scenarios requiring real-time and general capabilities. (3 days ago)
+- [rhymes-ai/Aria](https://github.com/rhymes-ai/Aria) - Codebase for Aria - an Open Multimodal Native MoE (1 day ago)
+- [panphp/pan](https://github.com/panphp/pan) - A simple, lightweight, and privacy-focused product analytics php package (3 days ago)
+- [EOS-team/EOS](https://github.com/EOS-team/EOS) - EOS is a dual-core operating system designed specifically for embodied intelligence, suitable for robots, drones, satellites or other scenarios requiring real-time and general capabilities. (4 days ago)
 - [pencilresearch/OpenScanner](https://github.com/pencilresearch/OpenScanner) - Fast, reliable, and free document scanner app for iPhone (1 week ago)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications (1 week ago)
 - [menyifang/MIMO](https://github.com/menyifang/MIMO) - Official implementation of &#34;MIMO: Controllable Character Video Synthesis with Spatial Decomposed Modeling&#34; (3 weeks ago)
